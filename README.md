@@ -1,5 +1,7 @@
-<h1 align="center">I'm Furkan</h1>
-<h3 align="center">Software Engeener</h3>
+<h1 align="center">I'm Furkan Gül</h1>
+<h3 align="center">Software Engeener Student</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=furkhangul&label=Profile%20views&color=0e75b6&style=flat" alt="furkhangul" /> </p>
 
 - 🔭 I’m currently working on **hack & web develop.**
 
@@ -22,6 +24,7 @@
 <a href="https://fb.com/furkan gül" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="furkan gül" height="30" width="40" /></a>
 <a href="https://instagram.com/_furkan.gul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_furkan.gul" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/furoftheweak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="furoftheweak" height="30" width="40" /></a>
+<a href="https://discord.gg/furkhangul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="furkhangul" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
