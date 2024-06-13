@@ -1,4 +1,4 @@
- [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gelgez.net%2Fuzay-karanligi%2F&psig=AOvVaw3pkVLapwfAktNChTtcxXOs&ust=1718373653548000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCwlu3e2IYDFQAAAAAdAAAAABAD)
+ [![MasterHead](https://avatars.mds.yandex.net/i?id=a603c5c7b0446a9381ff6420150375e79fcc7e16-12911696-images-thumbs&n=13)
 
 <h1 align="center">I'm Furkan Gül</h1>
 <h3 align="center">Software Engeener Student</h3>
