@@ -1,4 +1,4 @@
- [![MasterHead](https://avatars.mds.yandex.net/i?id=a603c5c7b0446a9381ff6420150375e79fcc7e16-12911696-images-thumbs&n=13)
+ [![MasterHead](https://i.pinimg.com/736x/b0/04/54/b00454dc99d3bf562b4eff968c141417.jpg)
 
 <h1 align="center">I'm Furkan Gül</h1>
 <h3 align="center">Software Engeener Student</h3>
