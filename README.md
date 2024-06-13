@@ -1,4 +1,4 @@
- [![MasterHead](https://i.pinimg.com/736x/b0/04/54/b00454dc99d3bf562b4eff968c141417.jpg)
+ [![MasterHead](https://t4.ftcdn.net/jpg/03/15/04/67/360_F_315046732_gT9Ao7yIHiQ92SoO9dTvUPmfQgWYI1io.jpg)
 
 <h1 align="center">I'm Furkan Gül</h1>
 <h3 align="center">Software Engeener Student</h3>
