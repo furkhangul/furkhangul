@@ -1,88 +1,85 @@
-# 🚀 about
-
-- 🤔 Carpe Diem
-- 💬 Sot the lot of you.I do what I like~
-- 📫 holic-x@foxmail.com
-- 🚀个人博客：😎Java全栈学习[日常开发笔记](https://noob.holic-x.com/)、🥚博客原始版 [一人の境](https://blog.holic-x.com/)
-- 🌏社交网站：[掘金](https://juejin.cn/user/2559318802054568)、[CSDN💬](https://blog.csdn.net/weixin_40376256)
-
-# 🎫 projects
-- 项目开发
-  - 🛞智能百宝箱：[前端](https://github.com/holic-x/itc-platform-frontend)、[后端](https://github.com/holic-x/itc-platform)
-  - 🛸基于Springboot-React构建的项目快速开发模板：[springboot-react-init](https://github.com/holic-x/springboot-react-init)
-  - 
-
-- 组件开发
-  - [🪂轻量级RPC框架（基于Vert.x+Etcd）](https://github.com/holic-x/noob-rpc)
-  - [🎑基于Vite构建的自定义公告SDK组件](https://github.com/holic-x/itc-notification-sdk)
-  - [🎑Hexo扩展插件](https://github.com/holic-x/hexo-butterfly-tags-extend)
-    
-# 💻Recent Blog
-
-<!-- BLOG-POST-LIST:START -->
-- [博客订阅&amp;推送](https://noob.holic-x.com/md/0.%E7%A2%8E%E7%89%87%E5%8C%96/30-%E7%BD%91%E7%AB%99%E8%BF%90%E7%BB%B4/3003-%E5%8D%9A%E5%AE%A2%E8%AE%A2%E9%98%85_%E6%8E%A8%E9%80%81.html)
-- [常见Git操作&amp;日常问题](https://noob.holic-x.com/md/0.%E7%A2%8E%E7%89%87%E5%8C%96/80-BUG%E9%9B%86%E6%95%A3%E5%9C%B0/%E5%B8%B8%E8%A7%81Git%E6%93%8D%E4%BD%9C_%E6%97%A5%E5%B8%B8%E9%97%AE%E9%A2%98.html)
-- [开发问题记录册](https://noob.holic-x.com/md/0.%E7%A2%8E%E7%89%87%E5%8C%96/80-BUG%E9%9B%86%E6%95%A3%E5%9C%B0/%E5%BC%80%E5%8F%91%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95%E5%86%8C.html)
-- [Maven的聚合和继承](https://noob.holic-x.com/md/4.PM/maven/3.Maven%E7%9A%84%E8%81%9A%E5%90%88%E5%92%8C%E7%BB%A7%E6%89%BF.html)
-- [Maven生命周期详解](https://noob.holic-x.com/md/4.PM/maven/2.Maven%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%E8%AF%A6%E8%A7%A3.html)
-<!-- BLOG-POST-LIST:END -->
-
-
-# 🛠 Tech Stack
-
-> skills
-
-- 🔭 back-end： ![Java](https://img.shields.io/badge/-Java-gray?style=flat-circle&logo=java)![Spring](https://img.shields.io/badge/-Spring-green?style=flat-circle&logo=spring)![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker)
-
-- 👯 front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)![VUE](https://img.shields.io/badge/-VUE-blue?style=flat-circle&logo=VUE)
-
-- :hammer_and_wrench: use-tool：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)![Intelli JIDEA](https://img.shields.io/badge/-IntelliJIDEA-black?style=flat-circle&logo=IntelliJIDEA) ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-circle&logo=markdown)
-
-- ⚙️ om：![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git)![Shell](https://img.shields.io/badge/-Shell-red?style=flat-circle&logo=shell)![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-circle&logo=Linux)![GitLab](https://img.shields.io/badge/-GitLab-orange?style=flat-circle&logo=GitLab)![](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)![Gitee](https://img.shields.io/badge/-Gitee-red?style=flat-circle&logo=Gitee)
-
-- 💻 db：![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB)![Oracle](https://img.shields.io/badge/-Oracle-red?style=flat-circle&logo=Oracle)![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql)![Redis](https://img.shields.io/badge/-Redis-green?style=flat-circle&logo=Redis)
-
-- 🌱 learning：![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)![php](https://img.shields.io/badge/-php-green?style=flat-circle&logo=php)![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat-circle&logo=Nodejs)
-
-  
-
-> Language usage
+<br clear="both">
 
 <div align="center">
-    <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=holic-x&theme=gruvbox_light&layout=compact"/>
+  <img height="200" src="https://i.gifer.com/origin/40/40347e3f2bc01b8790a3c7278f39447b_w200.gif"  />
 </div>
 
+###
 
-> Code analysis
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-<!-- START_SECTION:waka -->
-<!-- END_SECTION:waka -->
-
-
-
-
-# 🔭Actions
+###
 
 <div align="center">
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=holic-x"/>
+  <img src="https://streak-stats.demolab.com?user=furkhangul&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=furkhangul&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
-<div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
-</div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
-</picture>
 
+###
 
-
-
-# 🌱Social
+<br clear="both">
 
 <div align="center">
-    <img height="150px" src="https://github-profile-trophy.vercel.app/?username=holic-x&&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="45" alt="debian logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="45" alt="azure logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="45" alt="confluence logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="45" alt="apache logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="45" alt="woocommerce logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="csharp logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="c logo"  />
 </div>
 
-![](https://stats.justsong.cn/api/github?username=holic-x)![](https://stats.justsong.cn/api/zhihu?username=holic-x)
+###
 
+<br clear="both">
+
+<div align="center">
+  <a href="https://instagram.com/furoftheweak" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="65" height="50" alt="instagram logo"  />
+  </a>
+  <a href="https://x.com/kealiaan" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="65" height="50" alt="twitter logo"  />
+  </a>
+  <a href="https://www.youtube.com/@FurOfTheWeak" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="65" height="50" alt="youtube logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="65" height="50" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="65" height="50" alt="telegram logo"  />
+  <a href="mailto:gl56frkn@gmail.com " target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="65" height="50" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/furkhangul/furkhangul/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/furkhangul/count.svg?"  />
+</div>
+
+###
