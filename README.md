@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-103.gif"  />
+  <img height="200" src="https://media2.giphy.com/media/3osxYuubTSxehVAHsY/giphy.gif?cid=6c09b952bdrufopo4o2enx3k6sqka6n943ruj6uef4jqbvhy&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
 ###
