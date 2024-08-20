@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Welcome My Myth, I'm Furkan</h1>
+<h1 align="center">Welcome To My Fanciful Myth, I'm Furkan</h1>
 <h3 align="center">I'm a student sowftware engeneering on Bandırma Onyedi Eylül University. I like playing basketball and chess. But my biggest hobby is dealing with computers. Also i love do research and learn new info.</h3>
 
 - 🔭 I’m currently working on **frameworks, courses, algorithms and cryptology.**
