@@ -84,7 +84,7 @@
   <a href="https://instagram.com/furoftheweak" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="65" height="50" alt="instagram logo"  />
   </a>
-  <a href="https://x.com/kealiaan" target="_blank">
+  <a href="https://x.com/furkhangul" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="65" height="50" alt="twitter logo"  />
   </a>
   <a href="https://www.youtube.com/@FurOfTheWeak" target="_blank">
