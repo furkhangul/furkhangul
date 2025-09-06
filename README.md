@@ -6,34 +6,6 @@
 
 ###
 
-<h1 align="center">Welcome To My Fanciful Myth, I'm Furkan</h1>
-<h3 align="center">I'm a student sowftware engeneering on Bandırma Onyedi Eylül University. I like playing basketball and chess. But my biggest hobby is dealing with computers. Also i love do research and learn new info.</h3>
-
-- 🔭 I’m currently working on **frameworks, courses, algorithms and cryptology.**
-
-- 🌱 I’m currently learning **frameworks, courses.**
-
-- 👯 I’m looking to collaborate on **Wordlist make programs**
-
-- 🤝 I’m looking for help with **Libery Management System**
-
-- 👨‍💻 All of my projects are available at [https://github.com/furkhangul](https://github.com/furkhangul)
-
-- 📝 I regularly write articles on [dergipark.com](dergipark.com)
-
-- 💬 Ask me about **Cyber securty, web, develop, cryptology.**
-
-- 📫 How to reach me **gl56frkn@gmail.com**
-
-- 📄 Know about my experiences [on my linkedln and instagram accounts.](on my linkedln and instagram accounts.)
-
-- ⚡ Fun fact **i think this here's so boring.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-
 ###
 
 <div align="center">
