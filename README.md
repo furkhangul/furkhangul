@@ -1,8 +1,4 @@
 <h1>Furkan Gül</h1>
-<div align="center">
-  on / off
-</div>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkhangul&label=Profile%20views&color=0e75b6&style=flat" alt="furkhangul" /> </p>
 
