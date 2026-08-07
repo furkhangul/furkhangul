@@ -1,24 +1,33 @@
 <h1 align="center">Merhaba 👋, Ben Furkan Gül</h1>
 
 <h3 align="center">
-  Bandırma Onyedi Eylül Üniversitesi'nde Bilgisayar Mühendisliği Öğrencisi | Veri Bilimi & Yapay Zekâ Tutkunu
+Bilgisayar Mühendisliği Öğrencisi | Yapay Zekâ | Veri Bilimi | Yazılım Geliştirme
 </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=furkhangul&label=Profil%20Görüntülenmesi&color=0e75b6&style=flat-square" alt="Profil Görüntülenmesi" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/furkhangul">
+    <img src="https://img.shields.io/github/followers/furkhangul?label=Followers&style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/furkhangul">
+    <img src="https://img.shields.io/github/stars/furkhangul?label=Stars&style=for-the-badge&logo=github" />
+  </a>
+</p>
+
 ---
 
-## 👨‍💻 Benim Hakkımda
+## 👨‍💻 Hakkımda
 
-* 🔭 **Simülatör projeleri**, web tabanlı platformlar ve karmaşık uygulama mimarileri üzerinde çalışıyorum.
-* 🌱 **Veri Bilimi ve Yapay Zekâ** alanında kendimi geliştiriyorum.
-* 🧠 Özellikle **Machine Learning, Data Leakage, One-Hot Encoding, Cross Validation, Confusion Matrix ve Model Evaluation** konularıyla ilgileniyorum.
-* 🎮 Oyun geliştirme ve **UI/UX tasarımı** ile ilgileniyorum.
-* 📊 **Veri madenciliği, makine öğrenmesi ve veritabanı optimizasyonları** üzerine projeler geliştiriyorum.
-* 💻 Web, mobil ve masaüstü uygulamalar geliştirmeye ilgi duyuyorum.
-* 🚀 Sürekli yeni teknolojiler öğrenerek gerçek dünyada kullanılabilecek projeler geliştirmeye çalışıyorum.
+* 🎓 Bilgisayar Mühendisliği öğrencisiyim.
+* 🤖 Yapay zekâ ve makine öğrenmesi üzerine çalışıyorum.
+* 📊 Veri bilimi ve veri madenciliğiyle ilgileniyorum.
+* 💻 Web, mobil ve masaüstü uygulamalar geliştiriyorum.
+* 🎮 Oyun geliştirme ve UI/UX tasarımıyla ilgileniyorum.
+* 🧠 Machine Learning, Data Mining ve Model Evaluation konularında kendimi geliştiriyorum.
+* 🚀 Gerçek dünyada kullanılabilecek projeler geliştirmeye odaklanıyorum.
 
 ---
 
@@ -26,16 +35,16 @@
 
 <p align="center">
 
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-0D1117?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Machine%20Learning-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
 <img src="https://img.shields.io/badge/Data%20Science-0D1117?style=for-the-badge&logo=databricks&logoColor=FF3621" />
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-0D1117?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Data%20Mining-0D1117?style=for-the-badge&logo=databricks&logoColor=white" />
 
 </p>
 
 ---
 
-## 🛠️ Teknolojiler ve Araçlar
+# 🛠️ Teknolojiler
 
 ### 💻 Programlama Dilleri
 
@@ -46,19 +55,15 @@
 ### 🤖 Yapay Zekâ & Veri Bilimi
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
-</p>
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=013243" />
+<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=150458" />
+<img src="https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" />
 
 </p>
 
-### 🌐 Web Teknolojileri
+### 🌐 Web Geliştirme
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nodejs,php,tailwind&theme=dark" />
@@ -78,89 +83,115 @@
 
 ---
 
-## 📊 GitHub İstatistiklerim
+# 📊 GitHub İstatistiklerim
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=furkhangu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=tr" height="180" alt="GitHub İstatistikleri" />
+<img 
+src="https://github-readme-stats.vercel.app/api?username=furkhangul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=tr"
+alt="Furkan Gül GitHub İstatistikleri"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkhangu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=tr" height="180" alt="En Çok Kullanılan Diller" />
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkhangul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=tr"
+alt="Furkan Gül En Çok Kullanılan Diller"
+/>
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=furkhangu&theme=tokyonight&hide_border=true&background=0D1117&locale=tr" alt="GitHub Streak" />
+<img
+src="https://streak-stats.demolab.com/?user=furkhangul&theme=tokyonight&hide_border=true&background=0D1117&locale=tr"
+alt="Furkan Gül GitHub Streak"
+/>
 
 </div>
 
 ---
 
-## 📈 GitHub Aktivitem
+# 📈 GitHub Aktivitesi
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=furkhangu&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF" alt="GitHub Activity Graph" />
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=furkhangul&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&hide_border=true"
+alt="Furkan Gül GitHub Aktivite Grafiği"
+/>
 
 </div>
 
 ---
 
-## 🚀 Üzerinde Çalıştığım Alanlar
+# 🚀 Öne Çıkan Çalışma Alanlarım
 
 ```text
-🤖 Artificial Intelligence
-   ├── Machine Learning
-   ├── Data Mining
-   ├── Model Training
-   ├── Data Preprocessing
-   └── Model Evaluation
+🤖 ARTIFICIAL INTELLIGENCE
+│
+├── Machine Learning
+├── Model Training
+├── Data Preprocessing
+├── Feature Engineering
+├── Model Evaluation
+├── Cross Validation
+├── Confusion Matrix
+└── Data Leakage
 
-📊 Data Science
-   ├── Pandas
-   ├── NumPy
-   ├── Data Visualization
-   ├── Feature Engineering
-   └── Statistical Analysis
 
-💻 Software Development
-   ├── Web Applications
-   ├── Mobile Applications
-   ├── Desktop Applications
-   └── Game Development
+📊 DATA SCIENCE
+│
+├── Pandas
+├── NumPy
+├── Data Visualization
+├── Statistical Analysis
+├── Data Mining
+├── Classification
+└── Clustering
 
-🗄️ Database
-   ├── MySQL
-   ├── SQLite
-   ├── MongoDB
-   └── Database Optimization
+
+💻 SOFTWARE DEVELOPMENT
+│
+├── Web Applications
+├── Mobile Applications
+├── Desktop Applications
+├── REST APIs
+└── Game Development
+
+
+🗄️ DATABASE
+│
+├── MySQL
+├── MongoDB
+├── SQLite
+└── Database Optimization
 ```
 
 ---
 
-## 🎮 Projeler
+# 🎮 Projeler
 
-### 🎈 Balloon Target Quest
+## 🎈 Balloon Target Quest
 
-Matematik sorularını oyunlaştırarak kullanıcıların doğru cevaplarla balonları patlatmasını sağlayan interaktif bir oyun projesi.
+Matematik sorularını oyunlaştırarak kullanıcıların doğru cevaplarla balonları patlatmasını sağlayan interaktif oyun projesi.
 
-**Odak Noktaları:**
+### Özellikler
 
 * 🎮 Oyun mekanikleri
-* 🎨 UI/UX tasarımı
-* 🧮 Matematik tabanlı oyun sistemi
+* 🎨 Modern UI/UX
+* 🧮 Matematik tabanlı soru sistemi
 * 🔊 Ses efektleri
 * 📱 Mobil uyumluluk
+* 🏆 Skor sistemi
 
 ---
 
-### 🧠 Machine Learning Projects
+## 🧠 Machine Learning Projects
 
-Veri bilimi ve makine öğrenmesi üzerine farklı algoritmaları kullanarak geliştirdiğim projeler.
+Makine öğrenmesi algoritmaları ve veri bilimi üzerine çeşitli çalışmalar.
 
-**Çalıştığım konular:**
+### Çalıştığım Algoritmalar
 
 * Decision Tree
 * K-Nearest Neighbors
@@ -169,19 +200,34 @@ Veri bilimi ve makine öğrenmesi üzerine farklı algoritmaları kullanarak gel
 * Agglomerative Clustering
 * Apriori
 * ECLAT
+
+### Veri İşleme
+
+* Data Cleaning
+* One-Hot Encoding
+* StandardScaler
+* MinMaxScaler
 * SMOTE
+* Feature Engineering
 * Cross Validation
+
+### Model Değerlendirme
+
+* Accuracy
+* Precision
+* Recall
+* F1 Score
 * Confusion Matrix
-* ROC / AUC
-* Feature Scaling
+* ROC Curve
+* AUC
 
 ---
 
-## 📚 Şu Anda Öğreniyorum
+# 📚 Şu Anda Öğreniyorum
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-Learning-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI-Learning-8A2BE2?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Machine%20Learning-Learning-FF6F00?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Data%20Science-Learning-00A98F?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Software%20Architecture-Learning-007ACC?style=for-the-badge" />
@@ -190,28 +236,24 @@ Veri bilimi ve makine öğrenmesi üzerine farklı algoritmaları kullanarak gel
 
 ---
 
-## 📫 Bana Ulaş
+# 📫 GitHub
 
 <p align="center">
 
-<a href="https://github.com/furkhangu">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/furkhangul">
+  <img src="https://img.shields.io/badge/GitHub-furkhangul-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </p>
 
 ---
 
-## ⚡ Fun Fact
-
-> "Kod yazmak sadece bir şeyler üretmek değil, problemlere farklı bir bakış açısı kazandırmaktır."
-
----
-
 <div align="center">
 
-### ⭐ Projelerimi incelemeyi unutma!
+### 💡 "Kod yazmak, problemlere farklı bir bakış açısı kazandırmaktır."
 
-**Teşekkürler! 👋**
+<br>
+
+⭐ Profilimi ziyaret ettiğin için teşekkürler!
 
 </div>
