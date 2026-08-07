@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba 👋, Ben Furkan Gül</h1>
 
 <h3 align="center">
-Bilgisayar Mühendisliği Öğrencisi | Yapay Zekâ | Veri Bilimi | Yazılım Geliştirme
+Yazılım Mühendisliği Öğrencisi | Yapay Zekâ | Veri Bilimi | Yazılım Geliştirme
 </h3>
 
 <p align="center">
@@ -91,9 +91,6 @@ Bilgisayar Mühendisliği Öğrencisi | Yapay Zekâ | Veri Bilimi | Yazılım Ge
 src="https://github-readme-stats.vercel.app/api?username=furkhangul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=tr"
 alt="Furkan Gül GitHub İstatistikleri"
 />
-
-<h2 align="center">🧑‍💻 En Çok Kullandığım Diller</h2>
-
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkhangul&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8"
@@ -119,6 +116,7 @@ alt="Furkan Gül GitHub Streak"
 # 📈 GitHub Aktivitesi
 
 <div align="center">
+<br><br>
 
 <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=furkhangul&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&hide_border=true"
