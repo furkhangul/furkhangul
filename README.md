@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, Ben Furkan Gül</h1>
-<h3 align="center">Bandırma Onyedi Eylül Üniversitesi'nde Bilgisayar Mühendisliği Öğrencisi | Veri Bilimi Tutkunu</h3>
+<h3 align="center">Bandırma Onyedi Eylül Üniversitesi'nde Yazılım Mühendisliği Öğrencisi | Yapay Zeka Tutkunu</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=furkangul&label=Profil%20Görüntülenmesi&color=0e75b6&style=flat-square" alt="Profil Görüntülenmesi" />
