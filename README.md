@@ -9,12 +9,7 @@
 
 ### 👨‍💻 Benim Hakkımda
 
-- 🔭 Şu anda **s1sim.freedev.app** gibi global domainlere geçiş yapan simülatör projeleri ve karmaşık uygulama platformlarının mimarisi üzerinde çalışıyorum.
-- 🌱 **Veri Bilimi** alanında derinleşiyorum; özellikle veri sızıntısı (data leakage), one-hot encoding, çapraz doğrulama (cross-validation) ve hata matrisleri (confusion matrix) üzerine çalışmalar yapıyorum.
-- 🎮 Oyun geliştirme mantığına ilgi duyuyorum; en son doğru matematik cevaplarıyla balon patlatma konseptli özel UI/UX tasarımlarına sahip bir proje üzerinde çalıştım.
-- 👯 Veri madenciliği ve veritabanı optimizasyonları üzerine akademik ve kişisel projeler geliştiriyorum.
 
----
 
 ### 📊 İstatistiksel Görseller (GitHub Stats)
 
