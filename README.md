@@ -92,10 +92,14 @@ src="https://github-readme-stats.vercel.app/api?username=furkhangul&show_icons=t
 alt="Furkan Gül GitHub İstatistikleri"
 />
 
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkhangul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=tr"
-alt="Furkan Gül En Çok Kullanılan Diller"
-/>
+<h2 align="center">🧑‍💻 En Çok Kullandığım Diller</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkhangul&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8"
+    alt="En Çok Kullanılan Diller"
+  />
+</p>
 
 </div>
 
