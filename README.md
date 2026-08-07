@@ -9,12 +9,6 @@
 
 ### 👨‍💻 Benim Hakkımda
 
-
-
-### 📊 İstatistiksel Görseller (GitHub Stats)
-
-*(Görsellerin temasını karanlık mod, `tokyonight` olarak ayarladım. Çok daha şık ve profesyonel duruyor.)*
-
 <div align="center">
   <!-- Ana İstatistik Kartı -->
   <img src="https://github-readme-stats.vercel.app/api?username=furkangul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=tr" alt="Furkan'ın GitHub İstatistikleri" />
