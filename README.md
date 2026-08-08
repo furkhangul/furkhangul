@@ -21,7 +21,7 @@ Yazılım Mühendisliği Öğrencisi | Yapay Zekâ | Veri Bilimi | Yazılım Gel
 
 ## 👨‍💻 Hakkımda
 
-* 🎓 Bilgisayar Mühendisliği öğrencisiyim.
+* 🎓 Yazılım Mühendisliği öğrencisiyim.
 * 🤖 Yapay zekâ ve makine öğrenmesi üzerine çalışıyorum.
 * 📊 Veri bilimi ve veri madenciliğiyle ilgileniyorum.
 * 💻 Web, mobil ve masaüstü uygulamalar geliştiriyorum.
