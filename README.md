@@ -124,6 +124,3 @@ alt="Furkan Gül GitHub Aktivite Grafiği"
 />
 
 </div>
-
----
-
