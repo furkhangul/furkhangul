@@ -10,10 +10,10 @@ Yazılım Mühendisliği Öğrencisi | Yapay Zekâ | Veri Bilimi | Yazılım Gel
 
 <p align="center">
   <a href="https://github.com/furkhangul">
-    <img src="https://img.shields.io/github/followers/furkhangul?label=Followers&style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/github/followers/furkhangul?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers" />
   </a>
   <a href="https://github.com/furkhangul">
-    <img src="https://img.shields.io/github/stars/furkhangul?label=Stars&style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/github/stars/furkhangul?label=Stars&style=for-the-badge&logo=github" alt="GitHub Stars" />
   </a>
 </p>
 
@@ -21,13 +21,13 @@ Yazılım Mühendisliği Öğrencisi | Yapay Zekâ | Veri Bilimi | Yazılım Gel
 
 ## 👨‍💻 Hakkımda
 
-* 🎓 Yazılım Mühendisliği öğrencisiyim.
-* 🤖 Yapay zekâ ve makine öğrenmesi üzerine çalışıyorum.
-* 📊 Veri bilimi ve veri madenciliğiyle ilgileniyorum.
-* 💻 Web, mobil ve masaüstü uygulamalar geliştiriyorum.
-* 🎮 Oyun geliştirme ve UI/UX tasarımıyla ilgileniyorum.
-* 🧠 Machine Learning, Data Mining ve Model Evaluation konularında kendimi geliştiriyorum.
-* 🚀 Gerçek dünyada kullanılabilecek projeler geliştirmeye odaklanıyorum.
+- 🎓 Yazılım Mühendisliği öğrencisiyim.
+- 🤖 Yapay zekâ ve makine öğrenmesi üzerine çalışıyorum.
+- 📊 Veri bilimi ve veri madenciliğiyle ilgileniyorum.
+- 💻 Web, mobil ve masaüstü uygulamalar geliştiriyorum.
+- 🎮 Oyun geliştirme ve UI/UX tasarımıyla ilgileniyorum.
+- 🧠 Machine Learning, Data Mining ve Model Evaluation konularında kendimi geliştiriyorum.
+- 🚀 Gerçek dünyada kullanılabilecek projeler geliştirmeye odaklanıyorum.
 
 ---
 
@@ -85,7 +85,6 @@ Yazılım Mühendisliği Öğrencisi | Yapay Zekâ | Veri Bilimi | Yazılım Gel
 
 # 📊 GitHub İstatistiklerim
 
-<div align="center">
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkhangul&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8"
@@ -93,29 +92,26 @@ Yazılım Mühendisliği Öğrencisi | Yapay Zekâ | Veri Bilimi | Yazılım Gel
   />
 </p>
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-src="https://streak-stats.demolab.com/?user=furkhangul&theme=tokyonight&hide_border=true&background=0D1117&locale=tr"
-alt="Furkan Gül GitHub Streak"
-/>
-
-</div>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=furkhangul&theme=tokyonight&hide_border=true&locale=tr"
+    alt="Furkan Gül GitHub Streak"
+  />
+</p>
 
 ---
 
 # 📈 GitHub Aktivitesi
 
-<div align="center">
-<br><br>
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=furkhangul&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&hide_border=true"
+    alt="Furkan Gül GitHub Aktivite Grafiği"
+  />
+</p>
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=furkhangul&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&hide_border=true"
-alt="Furkan Gül GitHub Aktivite Grafiği"
-/>
+---
 
-</div>
+<p align="center">
+  <i>💻 Kod yaz, öğren, geliştir ve paylaş.</i>
+</p>
