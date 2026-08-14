@@ -83,24 +83,6 @@ Yazılım Mühendisliği Öğrencisi | Yapay Zekâ | Veri Bilimi | Yazılım Gel
 
 ---
 
-# 📊 GitHub İstatistiklerim
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkhangul&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8"
-    alt="En Çok Kullanılan Diller"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=furkhangul&theme=tokyonight&hide_border=true&locale=tr"
-    alt="Furkan Gül GitHub Streak"
-  />
-</p>
-
----
-
 # 📈 GitHub Aktivitesi
 
 <p align="center">
