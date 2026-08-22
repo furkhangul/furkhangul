@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, Ben Furkan Gül</h1>
+<h1 align="center">Merhaba, Ben Furkan Gül</h1>
 
 <h3 align="center">
 Yazılım Mühendisliği Öğrencisi | Yapay Zekâ | Veri Bilimi | Yazılım Geliştirme
