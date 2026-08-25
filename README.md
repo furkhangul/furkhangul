@@ -1,1 +1,1 @@
-<h1 align="center">Ben Furkan Gül</h1>
+<h5 align="center">Ben Furkan Gül</h5>
