@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://img1.picmix.com/output/stamp/normal/9/2/2/4/1654229_c9d81.gif"
+    src="https://i.pinimg.com/originals/d6/6b/ec/d66bec4584554d28c0ef100a641d9ec4.gif"
     alt="GIF"
     width="400"
   >
