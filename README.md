@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="./furkan-banner.svg" width="500" alt="Furkan Gül">
-</p>
+<p align="center"> <img src="https://i.pinimg.com/originals/d6/6b/ec/d66bec4584554d28c0ef100a641d9ec4.gif" alt="GIF" width="400" > </p>
